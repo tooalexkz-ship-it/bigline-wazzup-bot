@@ -1,7 +1,7 @@
 {
   "name": "bigline-wazzup-bot",
   "version": "1.0.0",
-  "description": "BIGLINE Wazzup AI bot",
+  "description": "BIGLINE Wazzup bot",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
